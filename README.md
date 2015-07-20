@@ -4,4 +4,4 @@
 by NAnt scripts.
 
 
-Find further information in the [dynaTrace community](https://community.compuwareapm.com/community/display/DL/NANT+Task+Library)
+Find further information in the [dynaTrace community](https://community.dynatrace.com/community/display/DL/NANT+Task+Library)
